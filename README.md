@@ -39,55 +39,50 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 POWER LEVELS (Skill Matrix)
 
-### 💻 Programming Languages
+<p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+<img src="https://img.shields.io/badge/Python-90%25-00d4ff?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-85%25-ff00ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-88%25-00ff88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web%20Development-80%25-ffaa00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-70%25-ff8800?style=for-the-badge&logo=amazonaws"/>
 
----
+</p>
+## 🛠️ TECH STACK
 
-### 🌐 Web Development
+<p align="center">
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
 
----
+<br/>
 
-### 📊 Data Analytics & Visualization
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-4E79A7?style=for-the-badge)
+<br/>
 
----
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
 
-### 🤖 Machine Learning
+<br/>
 
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0076B6?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/XGBoost-0076B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Tableau-4E79A7?style=for-the-badge"/>
 
----
-
-### ☁️ Cloud & Database
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase)
-
----
-
-### 🧰 Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-
----
+</p>
 
 ## 🔥 LeetCode Dashboard
 
