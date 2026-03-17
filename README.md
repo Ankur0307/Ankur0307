@@ -89,13 +89,13 @@
 
 ---
 
-## 🔥 LeetCode Contribution Heatmap
+## 🔥 LeetCode Dashboard
 
 <p align="center">
-  <img width="700" src="https://leetcard.jacoblin.cool/Ankuroo7?theme=dark&font=Baloo&ext=heatmap" />
+  <img width="48%" src="https://leetcard.jacoblin.cool/Ankuroo7?theme=dark&ext=heatmap" />
+  <img width="48%" src="https://leetcard.jacoblin.cool/Ankuroo7?theme=dark&ext=contest" />
 </p>
 
----
 ## 📊 GitHub Stats
 
 <p align="center">
