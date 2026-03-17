@@ -1,10 +1,10 @@
-<!-- PREMIUM PROFILE README -->
+<!-- ELITE GITHUB PROFILE -->
 
 <h1 align="center">Hi 👋, I'm Ankur Gupta</h1>
-<h3 align="center">🚀 Software Developer | Cloud & Data Systems Enthusiast</h3>
+<h3 align="center">🚀 Software Developer | ML & Cloud Systems Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub;Building+Scalable+Systems;AWS+%7C+SQL+%7C+Python;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Building+Real-World+Systems;Machine+Learning+%7C+AWS+%7C+Backend;Turning+Ideas+into+Scalable+Projects" />
 </p>
 
 ---
@@ -12,10 +12,25 @@
 ## 🧠 About Me
 
 * 🎓 B.Tech Student
-* 🔭 Working on: **Equity Data Stream (Real-time Stock System)**
-* 🌱 Learning: **Microservices | AWS | System Design**
-* 💡 Focus: Building real-world scalable backend systems
-* ⚡ Fun fact: I debug faster with coffee ☕
+* 🔭 Built: **Student Attendance Predictive System (ML + Dashboard)**
+* ⚡ Working on: **Equity Data Stream (Real-time AWS pipeline)**
+* 🌱 Learning: **Microservices, System Design, Cloud Architecture**
+* 💡 Focus: Building scalable, real-world systems
+
+---
+
+## 🚀 Featured Project
+
+### 🎓 Student Attendance Predictive System
+
+👉 ML-powered system to predict attendance & identify at-risk students
+
+* 🤖 5 ML models + SHAP explainability
+* 📊 Real-time dashboard using Streamlit
+* 📡 Live backend with Supabase
+* 🎯 Achieved **0.78 F1-score**
+
+🔗 https://studentattendancepredictor.streamlit.app
 
 ---
 
@@ -27,11 +42,10 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
 
-### 🌐 Web
+### 🤖 ML & Data
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0076B6?style=for-the-badge)
 
 ### ☁️ Cloud
 
@@ -48,23 +62,15 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🧩 Projects
 
-### 📈 Equity Data Stream
-
-Real-time stock data pipeline using AWS (Lambda, S3, DynamoDB, SNS)
-
-### 📚 Bookwise Nexus Store
-
-Full-stack online bookstore with MySQL backend
-
-### 🤖 Student Attendance Predictor
-
-Machine Learning model to predict attendance trends
+* 📈 **Equity Data Stream** → Real-time stock data pipeline (AWS)
+* 📚 **Bookwise Nexus Store** → Full-stack bookstore system
+* 🎓 **Attendance Predictor** → ML + analytics system
 
 ---
 
-## 🧩 Coding Profiles
+## 🧠 Coding Profiles
 
 * 💻 GitHub: https://github.com/Ankur0307
 * 🧠 LeetCode: https://leetcode.com/u/Ankuroo7/
@@ -78,4 +84,4 @@ Machine Learning model to predict attendance trends
 
 ---
 
-⭐ *Thanks for visiting! Let's build something amazing 🚀*
+⭐ *Focused on building impactful systems and growing as a software engineer*
