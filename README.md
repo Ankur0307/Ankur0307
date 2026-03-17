@@ -1,7 +1,7 @@
 <!-- ================= HEADER BANNER ================= -->
 
 <p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" />
+  <img src="https://github.com/Ankur0307/Ankur0307/blob/main/banner.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ankur Gupta</h1>
